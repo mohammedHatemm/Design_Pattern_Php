@@ -15,3 +15,4 @@ Use the Observer pattern when:
 *   Changes to the state of one object may require changing other objects, and you don’t know how many objects need to be changed.
 *   An object should be able to notify other objects without making assumptions about who those objects are. In other words, you don’t want these objects to be tightly coupled.
 
+
